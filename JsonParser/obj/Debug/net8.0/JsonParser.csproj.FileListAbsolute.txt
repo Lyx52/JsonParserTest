@@ -1,0 +1,15 @@
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.exe
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\test.json
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.dll
+D:\Algo\JsonParser\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.dll
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+D:\Algo\JsonParser\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll
